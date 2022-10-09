@@ -14,6 +14,12 @@ export const TASKS: Task[] = [
         reminder: true
     },
     {
+        id: 3,
+        text: "Investigar sobre Bootstrap",
+        day: 'Agosto 5 a las 19:00',
+        reminder: false
+    },
+    {
         id: 4,
         text: "Leer mi libro favorito",
         day: 'Agosto 5 a las 21:00',
